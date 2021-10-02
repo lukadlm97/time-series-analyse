@@ -1,0 +1,2 @@
+AR + I + MA
+Auto Regression + Integrity + Moving Avarage
