@@ -1,2 +1,27 @@
 AR + I + MA
-Auto Regression + Integrity + Moving Avarage
+Auto Regression (p) + Integrity(d) + Moving Avarage(q)
+Build ARIMA model will give us important factors (p,d,q)
+Most important factor is to calcualte this three factors.
+p - Parcial coficient factor
+d - differencying
+q - auto corallation factor
+ARIMA is automated machine learning model.
+
+ACF (Auto correlation factor)
+	ACF ->1		ACF ->2
+100	x1		x1
+110	x2		x2
+120	x3
+130	x4
+140	x5
+150	x6
+.
+ACF1 -> [x1=lambda*x2+some residual] - some correlation on next value
+ACF2 -> - some correlation on every secound element
+
+- after how many rows this relationshis start to fill?
+current observation 
+previuse observasion
+
+q - give us idea after hou many rows out relation shis is no more significant (minimize efect of correlations)
+q > 0.1 - good correlation (otherwise not good correlation)
