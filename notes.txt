@@ -25,3 +25,16 @@ previuse observasion
 
 q - give us idea after hou many rows out relation shis is no more significant (minimize efect of correlations)
 q > 0.1 - good correlation (otherwise not good correlation)
+
+p - parcial correlation factor
+100
+110
+120
+105
+
+direct correlation - values are direcly correlated with each other
+what is when 100 is correlated with 110,120,105 -> indirect correlation (partial correlation)
+main purpose of parcial correlation is to minimaze correlation in data
+on y correlation on x lag/index
+p = 2 (last value bigger then boundaries)
+
