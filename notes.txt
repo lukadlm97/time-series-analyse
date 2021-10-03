@@ -38,3 +38,19 @@ main purpose of parcial correlation is to minimaze correlation in data
 on y correlation on x lag/index
 p = 2 (last value bigger then boundaries)
 
+i - differencing
+y - price x - time strate line -> stationary line
+The main goal of differencing in concept in my model assuming you have stationary data.
+
+data is not stationary and the d=1 => xi+shifting(1)
+100	110	120	105	109	=>	shifting
+	100	110	120	105	109 	=>	first level of substraction
+->	10	10	-15	4		=> d=2	=> secound level of differencing (usual it would be last - data will be stationary)
+		100	110	120	105
+(1.r-4.r)		20	-5	-11	now we have trend
+
+
+
+
+
+
