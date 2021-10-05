@@ -1,0 +1,9 @@
+https://www.kaggle.com/taniaj/cryptocurrency-predictions-with-arima
+
+https://github.com/sdasadia/Oil-Natural-Gas-Price-Prediction
+https://github.com/nachi-hebbar/ARIMA-Temperature_Forecasting/blob/master/Temperature_Forecast_ARIMA.ipynb
+https://github.com/mborysiak/Time-Series-Forecasting-with-ARIMA-and-LSTM/blob/master/Time%20Series%20Predictions%20with%20ARIMA%20and%20LSTM.ipynb
+https://github.com/jacobstallone/Time_Series_ARIMA--Blog-and-code-/blob/master/Time%20Series.ipynb
+
+https://github.com/imhgchoi/ARIMA-LSTM-hybrid-corrcoef-predict
+https://github.com/krishnaik06/ARIMA-And-Seasonal-ARIMA
